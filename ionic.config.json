@@ -1,0 +1,7 @@
+{
+  "name": "kafka_stream_angular_part",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
